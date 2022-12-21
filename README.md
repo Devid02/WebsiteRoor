@@ -1,2 +1,2 @@
-# WebsiteRoor
+# WebsiteRoot
 Website folder
